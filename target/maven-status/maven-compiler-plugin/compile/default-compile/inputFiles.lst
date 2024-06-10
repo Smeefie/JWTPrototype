@@ -1,0 +1,9 @@
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/controller/AuthController.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/service/TokenService.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/JwtPrototypeApplication.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/config/RsaKeyProperties.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/controller/TokenProducer.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/controller/HomeController.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/config/SecurityConfig.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/config/TopicConfig.java
+/Users/fpc/Documents/GitHub/Deliveroo2/JWTPrototype/src/main/java/Deliveroo2/JWTPrototype/model/Token.java

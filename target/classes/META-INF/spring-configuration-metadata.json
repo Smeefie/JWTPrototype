@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "Deliveroo2.JWTPrototype.config.RsaKeyProperties",
+      "sourceType": "Deliveroo2.JWTPrototype.config.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "Deliveroo2.JWTPrototype.config.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "Deliveroo2.JWTPrototype.config.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}
